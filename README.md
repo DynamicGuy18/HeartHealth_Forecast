@@ -12,8 +12,8 @@ We have used Supervised Learning algorithms to predict the outcome.
   <li>Bootstrap</li>
 </ol>
 
-![ Preview](img1.png)
-![ Preview](img2.png)
-![ Preview](img3.png)
+![ Preview](img1.jpg)
+![ Preview](img2.jpg)
+![ Preview](img3.jpg)
 
 
